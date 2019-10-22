@@ -151,7 +151,19 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="SonidoSinusoidal.wav" />
+    <Content Include="sonidos\a.wav" />
+    <Content Include="sonidos\b.wav" />
+    <Content Include="sonidos\c.wav" />
+    <Content Include="sonidos\d.wav" />
+    <Resource Include="sonidos\dtmf.png" />
+    <Content Include="sonidos\e.wav" />
+    <Content Include="sonidos\f.wav" />
+    <Content Include="sonidos\g.wav" />
+    <Content Include="sonidos\h.wav" />
+    <Content Include="sonidos\i.wav" />
+    <Content Include="sonidos\j.wav" />
+    <Content Include="sonidos\k.wav" />
+    <Content Include="sonidos\l.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
